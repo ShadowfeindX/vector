@@ -4,7 +4,7 @@
 
 ##First Trimester - Learn the basics of programming with Ruby
 ######The first section of virb is designed to teach absolute newbies the basics of programming.
-It will include a portion of the history of programming as well as basic programming concepts that apply to programming languages in general. It will then teach the specifics of Ruby and offer a comparison to other common languages.
+It will include a portion of the history of programming as well as basic programming concepts that apply to programming languages in general. It will then teach the specifics of Ruby and offer a comparison to other common languages. After this section the students should know basic programming constructs and be able to build and run basic Ruby programs.
 
 At the end of this trimester, the student will be able to choose the field in which they would like to further their development. The program will then provide them with a set of recommended supplemental languages that they may find helpful in the future. In the second trimester they will have to learn at least one of these languages and pass an evaluation before moving on.
 
@@ -17,14 +17,22 @@ The currently implemented development fields are listed here:
 
   
   
-Second Trimester - Learning how to learn a language
+##Second Trimester - Analyzing programs and their languages
+######The next section of virb teaches those with basic coding ability how to analze programs and languages.
 
+In this trimester students will be exposed to many types of scripts and programs. They will be subject to many other languages that they can use hand-in-hand with Ruby or by themselves. It will also help to teach the students exactly what information they will need to gather in order to start programming in another language. This will be helpful in the second half of this trimester and in their future as programmers. After this section the students should have a basic understanding of the different types of languages and how/why/where they are used.
 
-The first part of this trimester will be focused on teaching more of the Ruby language and more programming terminology. It will also help to teach the students exactly what information they will need to gather in order to start programming in another language. This will be helpful in the second half of this trimester and in their future as programmers.
-  
-The second part of the trimester will focus on teaching the details of specific languages as they pertain to Ruby. This will allow the, to gain a greater understanding of programming as a whole and give them a powerful toolkit to use as they move forward wit their own projects or into the workforce. 
+The second, and main, portion of this trimester is full immersion into a language. It will teach many of the most used concepts in each supported language. It will provide full documentation for setting up a build enviornment as well as challenges and programs to be completed in each language. After learning more about these languages through code analysis and hands-on projects, the student will be evaluated.At the end of this section the students should have a strong understanding and appreciation for the language(s) of their choosing.
 
-These languages include but are not yet limited to: CRuby(C-interpreted Ruby), Jruby(JVM-based Ruby), Opal.rb(Javascript-transpiled Ruby), HTML5(latest implementation of HTML), CSS3(latest implementation of CSS), jQuery(most popular Javascript iteration), Java(most compatible language), C(fastest most relied on language).
+The currently implemented languages include, but are not yet limited to:
+>- [x] CRuby (C-interpreted Ruby)
+- [x] Jruby (JVM-based Ruby)
+- [x] Opal (Javascript-transpiled Ruby)
+- [x] HTML5 (Latest implementation of HTML)
+- [ ] CSS3 (Latest implementation of CSS)
+- [x] jQuery (Most popular Javascript implementation)
+- [ ] Java (Most compatible programming language)
+- [ ] C (Fastest and most relied-on language)
 
 After learning more about these languages through code analysis and hands on projects, the student will be evaluated.
 
