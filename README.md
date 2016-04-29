@@ -31,7 +31,7 @@ The currently planned/implemented languages include, but are not yet limited to:
 After learning more about these languages through code analysis and hands on projects, the student will be evaluated.
 ##Third Trimester - Developing and deploying to specific platforms
 ######The final section of virb walks the students through the steps necessary to build a project such as:
->- Choosing a specific platform to target.
+- Choosing a specific platform to target.
 - Creating a workspace enviornment for building professional applications.
 - Intergrating a new or un-familiar development framework.
 - Using various types of publishing tools.
