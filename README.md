@@ -6,13 +6,12 @@ It features a 3-step 'trimester' learning style and encourages the programmers u
 
 First Trimester - Learn the basics of programming and Ruby
 
-This first section is designed to teach absolute newbies the basics of programming. It will include a small portion of the history of programming as well as basic programming concepts that apply to programming language in general. It will then teach the specifics of Ruby and offer a comparison to other languages. At the end of this trimester, the student will be able to choose where they would like to further their development;
-	Desktop Application Publishing, Web-App Technologies, Mobile App Development, or Video Game Design.
+	This first section is designed to teach absolute newbies the basics of programming. It will include a small portion of the history of programming as well as basic programming concepts that apply to programming language in general. It will then teach the specifics of Ruby and offer a comparison to other languages. At the end of this trimester, the student will be able to choose where they would like to further their development;Desktop Application Publishing, Web-App Technologies, Mobile App Development, or Video Game Design.
 This will provide them with a set of recommended ruby language versions as well as some supplemental languages. In the second trimester they will have to learn at least one of these languages and pass an evaluation before moving on.
   
 Second Trimester - Learning how to learn a language
 
-The first part of this trimester will be focused on teaching more of the Ruby language and more programming terminology. It will also help to teach the students exactly what information they will need to gather in order to start programming in another language. This will be helpful in the second half of this trimester and in their future as programmers.
+	The first part of this trimester will be focused on teaching more of the Ruby language and more programming terminology. It will also help to teach the students exactly what information they will need to gather in order to start programming in another language. This will be helpful in the second half of this trimester and in their future as programmers.
   
 The second part of the trimester will focus on teaching the details of specific languages as they pertain to Ruby. This will allow the, to gain a greater understanding of programming as a whole and give them a powerful toolkit to use as they move forward wit their own projects or into the workforce. 
 These languages include but are not yet limited to:
