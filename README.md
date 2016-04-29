@@ -7,7 +7,7 @@ It will include a portion of the history of programming as well as basic program
 At the end of this trimester, the student will be able to choose the field in which they would like to further their development. The program will then provide them with a set of recommended supplemental languages that they may find helpful in the future. In the second trimester they will have to learn at least one of these languages and pass an evaluation before moving on.
 
 The currently planned/implemented development fields are listed here:
->- [x] Desktop Application Publishing
+>- [ ] Desktop Application Publishing
 - [ ] Web-App Technologies
 - [ ] Mobile App Development
 - [ ] Video Game Programming and Design.
@@ -19,12 +19,12 @@ In this trimester students will be exposed to many types of scripts and programs
 The second, and main, portion of this trimester is full immersion into a language. It will teach many of the most used concepts in each supported language. It will provide full documentation for setting up a build enviornment as well as challenges and programs to be completed in each language. At the end of this section the students should have a strong understanding and appreciation for the language(s) of their choosing.
 
 The currently planned/implemented languages include, but are not yet limited to:
->- [x] CRuby (C-interpreted Ruby)
-- [x] Jruby (JVM-based Ruby)
-- [x] Opal (Javascript-transpiled Ruby)
-- [x] HTML5 (Latest implementation of HTML)
+>- [ ] CRuby (C-interpreted Ruby)
+- [ ] Jruby (JVM-based Ruby)
+- [ ] Opal (Javascript-transpiled Ruby)
+- [ ] HTML5 (Latest implementation of HTML)
 - [ ] CSS3 (Latest implementation of CSS)
-- [x] jQuery (Most popular Javascript implementation)
+- [ ] jQuery (Most popular Javascript implementation)
 - [ ] Java (Most compatible programming language)
 - [ ] C (Fastest and most relied-on language)
 
@@ -44,23 +44,23 @@ After learning more about these languages through code analysis and hands on pro
 There will be walkthroughs available for each of the 4 tracks they selected at the end of the first trimester. The students will also be able to go back and learn previously skipped languages in order to progress on alternate paths, should they choose to do so.
 
 The program will show them how to use one or more of the following technologies:
->- [x] Bundler
-- [x] Warbler
-- [x] ElectronJS
-- [x] FTP
+>- [ ] Bundler
+- [ ] Warbler
+- [ ] ElectronJS
+- [ ] FTP
 - [ ] MySQL
 - [ ] Rails
 - [ ] Node.js
-- [x] RhoMobile
+- [ ] RhoMobile
 - [ ] RubyMotion
 - [ ] Unity
 - [ ] Unreal Engine
 
 Afterwards, it will offer helpful tips regarding other useful development/deployment processes that may help the students to go the extra 10% on their projects. Such as:
->- [x] Application Packaging
-- [x] Web Publishing
-- [x] Alpha/Beta Testing
+>- [ ] Application Packaging
+- [ ] Web Publishing
+- [ ] Alpha/Beta Testing
 - [ ] Custom Engine Creation
-- [x] Cross-Platform Development
+- [ ] Cross-Platform Development
 
->>After completing the full program the students should be well-vesred in programming lingo and should have a good understanding of how they want to use their newfound programming skills. Support will be continuously offered via hosted documentation, group chat rooms, and direct correspondance via email. I am hoping to be able to get mentors to support the upcoming programmers one the program has been fully fleshed out.
+#####After completing the full program the students should be well-versed in programming lingo and should have a good understanding of how they want to use their newfound programming skills. Support will be continuously offered via hosted documentation, group chat rooms, and direct correspondance via email. I am hoping to be able to get mentors to support the upcoming programmers one the program has been fully fleshed out.
