@@ -1,17 +1,20 @@
 # Vector.rb
-Vector.rb, also know as Ruby Jetpack, is a program written in Ruby designed to help new and aspiring programmers how to learn to code.
-
-It features a 3-step 'trimester' learning style and encourages the programmers using the application to develop methods of study and practice that will help them to develop and create any type of application they wish. The program is designed to treat prospective coders as students to be taught and trained, but also offers plenty of hand-on and real life application for the concepts to be taught. The program has several tracks that are setup to help new coders learn exactly what they need to know to start developing the type of content that they want.
+**Vector.rb (virb)** features a 3-part ***"trimester"*** learning style that encourages the newcomers using the program to develop methods of study and practice that will help them to develop and create any type of application they wish. The program is designed to treat prospective coders as students to be taught and trained, and also offers plenty of hand-on and real life application for important programming concepts. The program has several tracks that are setup to help new coders learn exactly what they need to know to start developing the type of content that they want.
 
 
-First Trimester - Learn the basics of programming and Ruby
+##First Trimester - Learn the basics of programming with Ruby
+######The first section of virb is designed to teach absolute newbies the basics of programming.
+It will include a portion of the history of programming as well as basic programming concepts that apply to programming languages in general. It will then teach the specifics of Ruby and offer a comparison to other common languages.
+
+At the end of this trimester, the student will be able to choose the field in which they would like to further their development. The program will then provide them with a set of recommended supplemental languages that they may find helpful in the future. In the second trimester they will have to learn at least one of these languages and pass an evaluation before moving on.
+
+The currently implemented development fields are listed here:
+>- [x] Desktop Application Publishing
+- [ ] Web-App Technologies
+- [ ] Mobile App Development
+- [ ] Video Game Programming and Design.
 
 
-This first section is designed to teach absolute newbies the basics of programming. It will include a small portion of the history of programming as well as basic programming concepts that apply to programming language in general. It will then teach the specifics of Ruby and offer a comparison to other languages. 
-
-At the end of this trimester, the student will be able to choose where they would like to further their development;Desktop Application Publishing, Web-App Technologies, Mobile App Development, or Video Game Design.
-
-This will provide them with a set of recommended ruby language versions as well as some supplemental languages. In the second trimester they will have to learn at least one of these languages and pass an evaluation before moving on.
   
   
 Second Trimester - Learning how to learn a language
